@@ -1,0 +1,11 @@
+{
+  "name": "@porkts/mark",
+  "description": "A package to be used as a chassis in microservice architecture",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Porkts/mark.git"
+  }
+}
